@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bismanugraha
-- 👀 I’m interested in Python language, and anything that relate to mathematics
-- 🌱 I’m currently learning about Data Analyst
+- 👀 I’m interested in Programming, and anything that relate to mathematics
+- 🌱 I’m currently working on Junior Software Development
 - 📫 How to reach me? Try to DM me
 - 
 
