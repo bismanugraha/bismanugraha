@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bismanugraha
-- 👀 I’m interested in Programming, and anything that relate to mathematics
+- 👀 Know well about Java Programming, and currently learn about Golang
 - 🌱 I’m currently working on Junior Software Development
 - 📫 How to reach me? Try to DM me
 
