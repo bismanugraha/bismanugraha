@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bismanugraha
 - 👀 Know well about Java Programming, and currently learn about Golang
-- 🌱 I’m currently working on Junior Software Development
+- 🌱 I’m currently working as Junior Software Development
 - 📫 How to reach me? Try to DM me
 
 <!---
